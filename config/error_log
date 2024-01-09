@@ -1,0 +1,68 @@
+[03-Oct-2023 01:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[03-Oct-2023 01:34:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[03-Oct-2023 04:19:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[03-Oct-2023 04:20:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[03-Oct-2023 04:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[06-Oct-2023 12:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[06-Oct-2023 12:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[06-Oct-2023 12:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[22-Oct-2023 22:38:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[25-Oct-2023 02:26:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[25-Oct-2023 02:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[15-Dec-2023 06:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[15-Dec-2023 06:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[30-Dec-2023 01:35:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[30-Dec-2023 01:35:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[04-Jan-2024 07:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21
+[04-Jan-2024 07:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/iq24naugqtnu/public_html/gautamgupta.info/config/cache.php on line 21

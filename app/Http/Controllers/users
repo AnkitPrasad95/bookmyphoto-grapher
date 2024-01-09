@@ -1,0 +1,43 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Support\Facades\Mail;
+
+class TestMailController extends Controller
+{
+    public function sendTestMail()
+    {
+        $data = [
+            'title' => "Email verification",
+            'email' => 'ak981993@gmail.com',
+            'otp' => '445566',
+        ];
+
+        try {
+            $result = $this->test_Mail($data);
+
+            if ($result === 1) {
+                return response()->json(['message' => 'Test email sent successfully.']);
+            } else {
+                return response()->json(['message' => 'Failed to send test email.']);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()]);
+        }
+    }
+
+    private function test_Mail(array $data)
+    {
+        try {
+            Mail::send('Email.emailverification', $data, function ($message) use ($data) {
+                $message->from(env('MAIL_USERNAME'))->subject($data['title']);
+                $message->to($data['email']);
+            });
+
+            return 1;
+        } catch (\Throwable $th) {
+            return 0;
+        }
+    }
+}
